@@ -1,0 +1,11 @@
+C:\Users\BOUDISS\Desktop\testjinkins\jinkinistest\jinkinistest\bin\Debug\netcoreapp2.1\jinkinistest.deps.json
+C:\Users\BOUDISS\Desktop\testjinkins\jinkinistest\jinkinistest\bin\Debug\netcoreapp2.1\jinkinistest.runtimeconfig.json
+C:\Users\BOUDISS\Desktop\testjinkins\jinkinistest\jinkinistest\bin\Debug\netcoreapp2.1\jinkinistest.runtimeconfig.dev.json
+C:\Users\BOUDISS\Desktop\testjinkins\jinkinistest\jinkinistest\bin\Debug\netcoreapp2.1\jinkinistest.dll
+C:\Users\BOUDISS\Desktop\testjinkins\jinkinistest\jinkinistest\bin\Debug\netcoreapp2.1\jinkinistest.pdb
+C:\Users\BOUDISS\Desktop\testjinkins\jinkinistest\jinkinistest\obj\Debug\netcoreapp2.1\jinkinistest.csprojAssemblyReference.cache
+C:\Users\BOUDISS\Desktop\testjinkins\jinkinistest\jinkinistest\obj\Debug\netcoreapp2.1\jinkinistest.csproj.CoreCompileInputs.cache
+C:\Users\BOUDISS\Desktop\testjinkins\jinkinistest\jinkinistest\obj\Debug\netcoreapp2.1\jinkinistest.AssemblyInfoInputs.cache
+C:\Users\BOUDISS\Desktop\testjinkins\jinkinistest\jinkinistest\obj\Debug\netcoreapp2.1\jinkinistest.AssemblyInfo.cs
+C:\Users\BOUDISS\Desktop\testjinkins\jinkinistest\jinkinistest\obj\Debug\netcoreapp2.1\jinkinistest.dll
+C:\Users\BOUDISS\Desktop\testjinkins\jinkinistest\jinkinistest\obj\Debug\netcoreapp2.1\jinkinistest.pdb

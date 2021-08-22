@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jinkinistest", "jinkinistest\jinkinistest.csproj", "{70E2486B-BB15-4D3F-8D8F-2E1138496F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{B2A1413A-5660-4377-A8DF-EE2F2866801A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E2486B-BB15-4D3F-8D8F-2E1138496F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E2486B-BB15-4D3F-8D8F-2E1138496F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E2486B-BB15-4D3F-8D8F-2E1138496F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E2486B-BB15-4D3F-8D8F-2E1138496F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A1413A-5660-4377-A8DF-EE2F2866801A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A1413A-5660-4377-A8DF-EE2F2866801A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A1413A-5660-4377-A8DF-EE2F2866801A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A1413A-5660-4377-A8DF-EE2F2866801A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F62448E-5574-4166-8E48-A96B95079386}
+	EndGlobalSection
+EndGlobal
